@@ -1,9 +1,6 @@
 import streamlit as st  # pip install streamlit
 import pandas as pd  # pip install pandas
 import numpy as np 
-import plotly as px
-import plotly.express as px  # pip install plotly-express
-import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
